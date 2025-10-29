@@ -1,5 +1,7 @@
 # TicketHub - Vue.js Ticket Management System
 
+Live URL - https://vue-ticket-management-app.vercel.app/
+
 A modern, responsive ticket management system built with Vue.js 3, Vue Router, and Tailwind CSS. This application allows users to create accounts, manage support tickets, and track their status through an intuitive dashboard interface.
 
 ## 🚀 Features
